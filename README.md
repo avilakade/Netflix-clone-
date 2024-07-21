@@ -1,7 +1,7 @@
 # Netflix India Clone
 
 ## Live
-https://main--celadon-treacle-62585b.netlify.app/
+https://netflix-frontend-web.netlify.app/
 
 This is a front-end clone of the Netflix India landing page, built using HTML, CSS, and JavaScript. It replicates the look and feel of Netflix's main features, including a responsive design, dropdown menus, and multimedia content.
 
